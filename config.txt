@@ -1,0 +1,3 @@
+IP: <ip>;
+Port: <port>; 
+Seconds: <seconds>;

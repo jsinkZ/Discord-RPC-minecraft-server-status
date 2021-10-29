@@ -1,0 +1,16 @@
+{
+  "name": "discord-minecraft-server-rpc",
+  "version": "1.0.0",
+  "description": "Simple Discord RPC for minecraft server status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artemiy Voronin <andrikv@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rich-presence": "0.0.8",
+    "minecraft-server-util": "^4.0.0",
+    "nodemon": "^2.0.14"
+  }
+}
