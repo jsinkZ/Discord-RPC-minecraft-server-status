@@ -1,0 +1,9 @@
+{
+    "ID": "<APPLICATION_ID>",
+    "IP": "<SERVER_IP>",
+    "PORT": "<SERVER_PORT>",
+    "LARGE_IMAGE": "<LARGE_IMAGE>",
+    "ONLINE_IMAGE": "<SMALL_ONLINE_IMAGE>",
+    "OFFLINE_IMAGE": "<SMALL_OFFLINE_IMAGE>",
+    "SECONDS": "<SECONDS>"
+}
