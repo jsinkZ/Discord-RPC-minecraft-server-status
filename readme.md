@@ -44,4 +44,4 @@ npm i
 - [Документация по RPC](https://discord.com/developers/docs/rich-presence/how-to)
 - [Документация по minecraft-server-util](https://www.npmjs.com/package/minecraft-server-util)
 
-### По вопросам писать в discord jsink\_#4005 или на [сервер](https://discord.gg/UQetxM5)
+### По вопросам и предложениям писать в discord jsink\_#4005 или на [сервер](https://discord.gg/UQetxM5)
